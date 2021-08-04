@@ -22,3 +22,7 @@ export class Post {
   title!: String; 
 
 }
+
+/**
+ * If for any reason I don't want any column exposed, just remove the decorator @Field() off of it;
+ */

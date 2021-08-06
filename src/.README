@@ -1,0 +1,13 @@
+Backend for a reddit clone. 
+Stack:
+    Typescript
+    Node.js
+    Express
+    PostgreSQL
+    Mikro-ORM
+    GraphQL
+    Apollo...
+
+And a couple more  libraries.
+The tsconfig.json can be automatically imported using __npx tsconfig.json__
+
